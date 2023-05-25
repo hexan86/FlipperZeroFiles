@@ -1,0 +1,17 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 868400000
+Preset: FuriHalSubGhzPreset2FSKDev238Async
+Protocol: BinRAW
+Bit: 564
+TE: 74
+Bit_RAW: 44
+Data_RAW: 00 00 3C 7B 26 2F
+Bit_RAW: 319
+Data_RAW: 00 10 18 04 86 02 80 2E 5E 52 20 5F 83 CC 64 06 1E 05 E4 08 19 C4 7B 04 80 5C E3 60 70 60 08 80 28 02 20 44 A0 0C C3 C7
+Bit_RAW: 105
+Data_RAW: 00 00 11 E0 23 81 03 10 12 5B F1 40 1C 01
+Bit_RAW: 33
+Data_RAW: 00 00 18 00 03
+Bit_RAW: 63
+Data_RAW: 00 17 30 00 08 0A 87 E7
